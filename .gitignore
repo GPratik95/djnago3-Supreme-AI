@@ -1,1 +1,12 @@
+<<<<<<< HEAD
+
+=======
+### Django ###
+*.log
+*.pot
 .idea
+*.pyc
+__pycache__/
+local_settings.p
+/static/
+>>>>>>> c83336ef74b240f6a334c7446ea7b5b518a0e89f
